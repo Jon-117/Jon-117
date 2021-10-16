@@ -5,7 +5,7 @@
 	
 - 🌱 I’m currently learning python, and I love it.
 
-- 💞️ I’m looking to collaborate on something that will help me learn more in Python, or 
+- 💞️ I’m looking to collaborate on projects that will help me learn more in Python, or 
 	generally more about any of the other interests listed above.
 	
 - 📫 How to reach me: email me at jkonoch@gmail.com
