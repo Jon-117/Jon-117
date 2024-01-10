@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Jon-117
-- 👀 I’m interested in a lot. I like data and making it mean something. A little more 
-	about me... I want to know more about Brain-Computer-Interfacing, 
-	artificial senses, and prosthethics - not just replacements, I'm talking extras.
-	
-- 🌱 I’m currently learning Java, and I continuing to learn more about Python.
+- 👋 Hi, I’m Jon. I'm a Software Development student at MCTC. 
 
-- 💞️ I’m looking to collaborate on projects that will help me learn more in Python and Java, or 
+- 👀 I’m interested in a lot. I love science technology and constantly watch how we're developing as a species and contemplate what these new developments mean for the world as a whole.
+
+- A little more about me... I want to know more about me
+	- Automation
+	- Brain-Computer-Interfacing
+	- artificial senses
+ 	- prosthethics (not just replacements, I'm talking extras)
+	- Microcomputers and other integrated systems
+	
+- 🌱 I’m currently working through a Capstone class mainly using Python
+
+- 💞️ I’m looking to collaborate on projects that will help me learn more in Python, or 
 	generally more about any of the other interests listed above.
 	
 <!---
