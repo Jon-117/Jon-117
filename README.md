@@ -2,12 +2,23 @@
 
 - 👀 I’m interested in a lot. I love science technology and constantly watch how we're developing as a species and contemplate what these new developments mean for the world as a whole.
 
-- A little more about me... I want to know more about me
+- A little more about me...
+- Languages I've worked in
+	- Python
+	- Java
+	- JavaScript
+	- HTML
+	- CSS
+  
+- I always want to know more about
 	- Automation
 	- Brain-Computer-Interfacing
 	- artificial senses
  	- prosthethics (not just replacements, I'm talking extras)
 	- Microcomputers and other integrated systems
+
+ - I've also started working with a 3D printer now.
+	 - My first design project is to create a case for my custom macro keyboard - the ol' breadboard just wasn't cutting it for me. 
 	
 - 🌱 I’m currently working through a Capstone class mainly using Python
 
