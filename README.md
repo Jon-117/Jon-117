@@ -1,6 +1,6 @@
-👋 Hi, I’m Jon. I'm a Software Development student at MCTC. 
+👋 Hi, I’m Jon. I earned my AAS in Software Development Minneapolis Community and Technical College in May of 2024. 
 
-I’m interested in a lot. I love science technology and constantly watch how we're developing as a species and contemplate what these new developments mean for the world as a whole.
+I’m interested in a lot. Really, I can find a way to be interested in almost anything. I love science and technology and constantly watch how it's evolving and contemplate what these new developments mean for the world as a whole.
 
 A little more about me...
 - Languages I've worked in
@@ -9,6 +9,7 @@ A little more about me...
 	- JavaScript
 	- HTML
 	- CSS
+   	- AHK v2
   
 - I always want to know more about
 	- Automation
@@ -17,10 +18,7 @@ A little more about me...
  	- prosthethics (not just replacements, I'm talking extras)
 	- Microcomputers and other integrated systems
 
-I've also started working with a 3D printer now.
-	 - My first design project is to create a case for my custom macro keyboard - the ol' breadboard just wasn't cutting it for me. 
-	
-🌱 I’m currently working through a Capstone class mainly using Python
+
 
 💞️ I’m looking to collaborate on projects that will help me learn more in Python, or 
 	generally more about any of the other interests listed above.
